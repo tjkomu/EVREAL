@@ -1,3 +1,4 @@
+mkdir -p data
 cd data
 mkdir TPAMI20
 cd TPAMI20
